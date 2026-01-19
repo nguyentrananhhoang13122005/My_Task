@@ -1,0 +1,96 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:MYTASKS.ViewModels"
+             xmlns:models="clr-namespace:MYTASKS.Models"
+             xmlns:converters="clr-namespace:MYTASKS.Converters"
+             x:Class="MYTASKS.MainPage"
+             x:Name="ThisPage"
+             BackgroundColor="#F0F4F8">
+
+    <ContentPage.BindingContext>
+        <vm:TasksViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <converters:BoolToStyleConverter x:Key="BoolToStyleConverter" />
+    </ContentPage.Resources>
+
+    <Grid RowDefinitions="Auto, Auto, *, Auto" Padding="20" RowSpacing="15">
+
+        <Label Text="MY TASKS" 
+               FontSize="28" FontAttributes="Bold" TextColor="#1A1A1A"
+               VerticalOptions="Center" />
+
+        <Frame Grid.Row="1" CornerRadius="10" Padding="15" BackgroundColor="White" HasShadow="True" BorderColor="Transparent">
+            <Grid ColumnDefinitions="*, Auto" ColumnSpacing="10">
+                <VerticalStackLayout Spacing="5">
+                    <Label Text="NEW TASK NAME" FontSize="10" TextColor="#4CAF50" FontAttributes="Bold"/>
+                    <Entry Text="{Binding NewTaskTitle, Mode=TwoWay}" 
+                           Placeholder="Refactor ViewModel..."
+                           ReturnType="Done"/>
+                </VerticalStackLayout>
+
+                <Button Grid.Column="1" 
+                        Text="+" 
+                        FontSize="24"
+                        WidthRequest="50" HeightRequest="50"
+                        CornerRadius="10"
+                        BackgroundColor="#26A69A"
+                        Command="{Binding AddTaskCommand}"
+                        CommandParameter="{Binding Source={x:Reference ThisPage}, Path=BindingContext.NewTaskTitle}" />
+            </Grid>
+        </Frame>
+
+        <Grid Grid.Row="2" RowDefinitions="Auto, *">
+            <Label Text="ACTIVE TASKS" FontSize="10" TextColor="#9E9E9E" FontAttributes="Bold" Margin="0,0,0,10"/>
+
+            <CollectionView Grid.Row="1" 
+                            ItemsSource="{Binding Tasks}"
+                            SelectionMode="Single"
+                            SelectedItem="{Binding SelectedTask, Mode=OneWayToSource}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="models:TaskItem">
+                        <Frame Margin="0,5" Padding="15" CornerRadius="10" BackgroundColor="White" BorderColor="Transparent" HasShadow="False">
+                            <Grid ColumnDefinitions="Auto, *">
+                                <CheckBox IsChecked="{Binding IsCompleted, Mode=TwoWay}" 
+                                          Color="#26A69A" />
+
+                                <Label Grid.Column="1" 
+                                       Text="{Binding Title, Mode=OneWay}"
+                                       VerticalOptions="Center"
+                                       FontSize="16"
+                                       TextDecorations="{Binding IsCompleted, Converter={StaticResource BoolToStyleConverter}}"
+                                       TextColor="{Binding IsCompleted, Converter={StaticResource BoolToStyleConverter}, ConverterParameter=Color}" />
+                            </Grid>
+
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
+
+        <Grid Grid.Row="3" ColumnDefinitions="*, *" ColumnSpacing="15">
+            <Frame Grid.Column="0" CornerRadius="10" BackgroundColor="White" Padding="20" HasShadow="False">
+                <VerticalStackLayout HorizontalOptions="Center">
+                    <Label Text="TOTAL TASKS" FontSize="10" TextColor="#9E9E9E" FontAttributes="Bold" HorizontalOptions="Center"/>
+                    <Label Text="{Binding TotalCount}" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <Frame Grid.Column="1" CornerRadius="10" BackgroundColor="#E0F2F1" Padding="20" HasShadow="False" BorderColor="Transparent">
+                <VerticalStackLayout HorizontalOptions="Center">
+                    <Label Text="COMPLETED" FontSize="10" TextColor="#26A69A" FontAttributes="Bold" HorizontalOptions="Center"/>
+
+                    <Label FontSize="24" FontAttributes="Bold" TextColor="#26A69A" HorizontalOptions="Center">
+                        <Label.Text>
+                            <MultiBinding StringFormat="{}{0} / {1:D2}">
+                                <Binding Path="CompletedCount" />
+                                <Binding Path="TotalCount" />
+                            </MultiBinding>
+                        </Label.Text>
+                    </Label>
+                </VerticalStackLayout>
+            </Frame>
+        </Grid>
+    </Grid>
+</ContentPage>
