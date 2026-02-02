@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5839123E-1E07-4BDF-8CA2-EEDA96B658F5}|Library.Presentation\\Library.Presentation.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\library.presentation\\mediamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5839123E-1E07-4BDF-8CA2-EEDA96B658F5}|Library.Presentation\\Library.Presentation.csproj|solutionrelative:library.presentation\\mediamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2A4B8-F485-4F79-88FE-6687FC409723}|Library.Service\\Library.Service.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\library.service\\library.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50F2A4B8-F485-4F79-88FE-6687FC409723}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\library.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2A4B8-F485-4F79-88FE-6687FC409723}|Library.Service\\Library.Service.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\library.service\\mediaplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2A4B8-F485-4F79-88FE-6687FC409723}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\mediaplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9310D55D-4E49-4908-BD2A-FE5C1C3CD242}|OnionArchitechture\\OnionArchitechture.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\onionarchitechture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9310D55D-4E49-4908-BD2A-FE5C1C3CD242}|OnionArchitechture\\OnionArchitechture.csproj|solutionrelative:onionarchitechture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830B582-7519-4D7F-8409-B3ADFD66AB06}|Library.Infrastructure.InMemory\\Library.Infrastructure.InMemory.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\library.infrastructure.inmemory\\inmemoryunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830B582-7519-4D7F-8409-B3ADFD66AB06}|Library.Infrastructure.InMemory\\Library.Infrastructure.InMemory.csproj|solutionrelative:library.infrastructure.inmemory\\inmemoryunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830B582-7519-4D7F-8409-B3ADFD66AB06}|Library.Infrastructure.InMemory\\Library.Infrastructure.InMemory.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\library.infrastructure.inmemory\\inmemorymediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830B582-7519-4D7F-8409-B3ADFD66AB06}|Library.Infrastructure.InMemory\\Library.Infrastructure.InMemory.csproj|solutionrelative:library.infrastructure.inmemory\\inmemorymediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5839123E-1E07-4BDF-8CA2-EEDA96B658F5}|Library.Presentation\\Library.Presentation.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\library.presentation\\library.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5839123E-1E07-4BDF-8CA2-EEDA96B658F5}|Library.Presentation\\Library.Presentation.csproj|solutionrelative:library.presentation\\library.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830B582-7519-4D7F-8409-B3ADFD66AB06}|Library.Infrastructure.InMemory\\Library.Infrastructure.InMemory.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\library.infrastructure.inmemory\\library.infrastructure.inmemory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F830B582-7519-4D7F-8409-B3ADFD66AB06}|Library.Infrastructure.InMemory\\Library.Infrastructure.InMemory.csproj|solutionrelative:library.infrastructure.inmemory\\library.infrastructure.inmemory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEA84E-96E7-4E2D-B64A-745FDD6A1C43}|Library.Core\\Library.Core.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\library.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEA84E-96E7-4E2D-B64A-745FDD6A1C43}|Library.Core\\Library.Core.csproj|solutionrelative:library.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEA84E-96E7-4E2D-B64A-745FDD6A1C43}|Library.Core\\Library.Core.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\library.core\\interfaces\\imediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEA84E-96E7-4E2D-B64A-745FDD6A1C43}|Library.Core\\Library.Core.csproj|solutionrelative:library.core\\interfaces\\imediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEA84E-96E7-4E2D-B64A-745FDD6A1C43}|Library.Core\\Library.Core.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\library.core\\domain\\mediafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEA84E-96E7-4E2D-B64A-745FDD6A1C43}|Library.Core\\Library.Core.csproj|solutionrelative:library.core\\domain\\mediafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9310D55D-4E49-4908-BD2A-FE5C1C3CD242}|OnionArchitechture\\OnionArchitechture.csproj|c:\\users\\admin\\source\\repos\\onionarchitechture\\onionarchitechture\\onionarchitechture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9310D55D-4E49-4908-BD2A-FE5C1C3CD242}|OnionArchitechture\\OnionArchitechture.csproj|solutionrelative:onionarchitechture\\onionarchitechture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Library.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Presentation\\Library.Presentation.csproj",
+              "RelativeDocumentMoniker": "Library.Presentation\\Library.Presentation.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Presentation\\Library.Presentation.csproj",
+              "RelativeToolTip": "Library.Presentation\\Library.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T19:32:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Service\\Library.Service.csproj",
+              "RelativeDocumentMoniker": "Library.Service\\Library.Service.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Service\\Library.Service.csproj",
+              "RelativeToolTip": "Library.Service\\Library.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T19:30:58.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Library.Infrastructure.InMemory.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Infrastructure.InMemory\\Library.Infrastructure.InMemory.csproj",
+              "RelativeDocumentMoniker": "Library.Infrastructure.InMemory\\Library.Infrastructure.InMemory.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Infrastructure.InMemory\\Library.Infrastructure.InMemory.csproj",
+              "RelativeToolTip": "Library.Infrastructure.InMemory\\Library.Infrastructure.InMemory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T19:27:52.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OnionArchitechture.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\OnionArchitechture\\OnionArchitechture.csproj",
+              "RelativeDocumentMoniker": "OnionArchitechture\\OnionArchitechture.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\OnionArchitechture\\OnionArchitechture.csproj",
+              "RelativeToolTip": "OnionArchitechture\\OnionArchitechture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T19:00:38.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MediaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Presentation\\MediaMenu.cs",
+              "RelativeDocumentMoniker": "Library.Presentation\\MediaMenu.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Presentation\\MediaMenu.cs",
+              "RelativeToolTip": "Library.Presentation\\MediaMenu.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAlwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:55:37.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InMemoryUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Infrastructure.InMemory\\InMemoryUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure.InMemory\\InMemoryUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Infrastructure.InMemory\\InMemoryUnitOfWork.cs",
+              "RelativeToolTip": "Library.Infrastructure.InMemory\\InMemoryUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:54:01.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryMediaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Infrastructure.InMemory\\InMemoryMediaRepository.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure.InMemory\\InMemoryMediaRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Infrastructure.InMemory\\InMemoryMediaRepository.cs",
+              "RelativeToolTip": "Library.Infrastructure.InMemory\\InMemoryMediaRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:52:25.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediaPlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Service\\MediaPlayerService.cs",
+              "RelativeDocumentMoniker": "Library.Service\\MediaPlayerService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Service\\MediaPlayerService.cs",
+              "RelativeToolTip": "Library.Service\\MediaPlayerService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwDwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:51:17.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Library.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Library.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:50:06.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMediaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Core\\Interfaces\\IMediaRepository.cs",
+              "RelativeDocumentMoniker": "Library.Core\\Interfaces\\IMediaRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Core\\Interfaces\\IMediaRepository.cs",
+              "RelativeToolTip": "Library.Core\\Interfaces\\IMediaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:49:44.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MediaFile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Core\\Domain\\MediaFile.cs",
+              "RelativeDocumentMoniker": "Library.Core\\Domain\\MediaFile.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\Library.Core\\Domain\\MediaFile.cs",
+              "RelativeToolTip": "Library.Core\\Domain\\MediaFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:43:58.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\OnionArchitechture\\Program.cs",
+              "RelativeDocumentMoniker": "OnionArchitechture\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OnionArchitechture\\OnionArchitechture\\Program.cs",
+              "RelativeToolTip": "OnionArchitechture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:41:51.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

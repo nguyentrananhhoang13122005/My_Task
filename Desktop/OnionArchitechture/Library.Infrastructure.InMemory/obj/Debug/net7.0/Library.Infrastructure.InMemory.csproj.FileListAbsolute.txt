@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\bin\Debug\net7.0\Library.Infrastructure.InMemory.deps.json
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\bin\Debug\net7.0\Library.Infrastructure.InMemory.dll
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\bin\Debug\net7.0\Library.Infrastructure.InMemory.pdb
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\bin\Debug\net7.0\Library.Core.dll
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\bin\Debug\net7.0\Library.Core.pdb
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\obj\Debug\net7.0\Library.Infrastructure.InMemory.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\obj\Debug\net7.0\Library.Infrastructure.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\obj\Debug\net7.0\Library.Infrastructure.InMemory.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\obj\Debug\net7.0\Library.Infrastructure.InMemory.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\obj\Debug\net7.0\Library.Infrastructure.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\obj\Debug\net7.0\Library.Infrastructure.InMemory.sourcelink.json
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\obj\Debug\net7.0\Library..F7FD3F4B.Up2Date
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\obj\Debug\net7.0\Library.Infrastructure.InMemory.dll
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\obj\Debug\net7.0\refint\Library.Infrastructure.InMemory.dll
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\obj\Debug\net7.0\Library.Infrastructure.InMemory.pdb
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Infrastructure.InMemory\obj\Debug\net7.0\ref\Library.Infrastructure.InMemory.dll

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\bin\Debug\net7.0\Library.Core.deps.json
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\bin\Debug\net7.0\Library.Core.dll
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\bin\Debug\net7.0\Library.Core.pdb
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\obj\Debug\net7.0\Library.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\obj\Debug\net7.0\Library.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\obj\Debug\net7.0\Library.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\obj\Debug\net7.0\Library.Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\obj\Debug\net7.0\Library.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\obj\Debug\net7.0\Library.Core.sourcelink.json
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\obj\Debug\net7.0\Library.Core.dll
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\obj\Debug\net7.0\refint\Library.Core.dll
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\obj\Debug\net7.0\Library.Core.pdb
+C:\Users\Admin\source\repos\OnionArchitechture\Library.Core\obj\Debug\net7.0\ref\Library.Core.dll
